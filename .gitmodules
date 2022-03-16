@@ -1,0 +1,4 @@
+[submodule "laya-exporter"]
+	path = laya-exporter
+	url = git@github.com:darklinden/laya-exporter.git
+	branch = master
